@@ -3,9 +3,9 @@ import Card from './Card.js';
 
 const CardList=({robots})=>{
 	// const CardComponent =
-	if(true){
-		throw new Error('Nooooo!!')
-	}
+	// if(true){
+	// 	throw new Error('Nooooo!!')
+	// }
 	return(
 		<div>
 			{			
